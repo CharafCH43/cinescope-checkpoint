@@ -132,3 +132,4 @@ export default function MovieModal({
     </div>
   );
 }
+

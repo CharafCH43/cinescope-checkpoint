@@ -91,3 +91,4 @@ export const MapPinIcon = ({ size = 14, className = '' }) => (
     <circle cx="12" cy="10" r="3"></circle>
   </svg>
 );
+

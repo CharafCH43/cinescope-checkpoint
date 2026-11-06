@@ -162,3 +162,4 @@ La spécification détaillée complète est consultable dans le fichier [PROJECT
 - **Créateur & Curateur :** Charf Eddine
 - **Ville & Pays :** Mila, Algérie
 - **Certification :** GoMyCode — Spécialisation Développement Web & IA
+

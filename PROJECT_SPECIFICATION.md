@@ -94,3 +94,4 @@ Le développement de ce projet a reposé sur une méthode itérative d'ingénier
 3. **Persistance Watchlist :** Ajout d'un film &rarr; Rechargement de page &rarr; Le film reste présent dans la liste grâce à `localStorage`.
 4. **Lecteur Vidéo :** Ouverture de la fiche Oppenheimer &rarr; La vidéo YouTube officielle se charge dans la modale réactive.
 5. **Ergonomie Mobile & Desktop :** Adaptation fluide des colonnes de cartes de 1 à 4 colonnes selon la largeur du viewport.
+

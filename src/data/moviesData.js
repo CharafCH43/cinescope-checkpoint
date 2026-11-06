@@ -164,3 +164,4 @@ export const GENRES_LIST = [
   'Action',
   'Policier'
 ];
+

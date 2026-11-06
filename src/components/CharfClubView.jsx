@@ -262,3 +262,4 @@ export const CharfClubView = ({ movies, onSelectMovie }) => {
     </div>
   );
 };
+

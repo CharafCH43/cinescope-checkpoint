@@ -6,3 +6,4 @@ export default defineConfig({
   plugins: [react()],
   base: './', // Assure le fonctionnement immédiat sur GitHub Pages quel que soit le sous-dossier
 });
+
