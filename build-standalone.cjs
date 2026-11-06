@@ -1063,3 +1063,4 @@ fs.writeFileSync(path.join(__dirname, 'index.html'), htmlContent, 'utf8');
 fs.writeFileSync(path.join(__dirname, 'dist', 'index.html'), htmlContent, 'utf8');
 
 console.log('✅ index.html et dist/index.html générés avec succès (100% autonome, styles CSS intégrés, 0 dépendances externes).');
+
